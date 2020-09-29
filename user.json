@@ -1,0 +1,15 @@
+
+{
+	name: "Antonio",
+	surname: "Iannuccillo",
+	email: "a.iannuccillo@studenti.unimolit",
+	matriculation: 162618,
+	phone: 3892326377,
+	username: "a.iannuccillo",
+	password: "Ciao1-",
+	book : [
+			{
+				_id: "5f5f7c858a07326eff5ce97d"
+			}
+		]
+}

@@ -1,0 +1,107 @@
+
+{
+    name: "Fondamenti di informatica e programmazione in C. Con e-text. Con espansione onlin",
+    authorName: "J. Glenn Brookshear",
+    seller:
+    {
+        name: "Antonio ",
+        surname: "Iannuccillo",
+        email: "a.iannuccillo@studenti.unimol.it",
+        phone: 3892326377,
+        department: "Informatica",
+        matriculation: 162618,
+    },
+    description: {
+        numberOfPage: 256,
+        ISBN: 978-8865183694,
+        language: "Italiano",
+    },
+    condition: "Buono",
+    picture: "https://images-na.ssl-images-amazon.com/images/I/51Vx3D+Iu4L._SX354_BO1,204,203,200_.jpg",
+    price: 50
+},
+{
+    name: "Web Design with HTML, CSS, JavaScript and jQuery Set",
+    authorName: "Jon Duckett",
+    seller:
+    {
+      name: "Giorgio",
+      surname: "Orlando",
+      email: "aaaaaaa",
+      phone: 12564885,
+      department: "Informatica",
+      matriculation: 162524,
+    },
+    description: {
+      numberOfPage: 1152,
+      ISBN: "978-1118907443",
+      language: "inglese",
+    },
+    picture: "https://images-na.ssl-images-amazon.com/images/I/41T53nRtyoL._SX435_BO1,204,203,200_.jpg",
+    condition: "buono",
+    price: 30
+  },
+{
+    name: "Informatica giuridica",
+    authorName: "Massimo Ballerini",
+    seller:
+    {
+      name: "Pasquale",
+      surname: "Bellini",
+      email: "asssee",
+      phone: 12524,
+      department: "Informatica",
+      matriculation: 126536,
+    },
+    description: {
+      numberOfPage: 298,
+      ISBN: "978-8823822887",
+      language: "italiano",
+    },
+    picture: "https://images-na.ssl-images-amazon.com/images/I/41TAaH5uaqL._SX345_BO1,204,203,200_.jpg",
+    condition: "leggermente usurato",
+    price: 15
+  },
+{
+    name: "Chimica, biochimica e biologia applicata",
+    authorName: "Massimo Stefani",
+    seller:
+    {
+      name: "Antonio",
+      surname: "De sisto",
+      email: "aa",
+      phone: 45858,
+      department: "Biologia",
+      matriculation: 156525,
+    },
+    description: {
+      numberOfPage: 416,
+      ISBN: "978-8808152275",
+      language: "italiano",
+    },
+    picture: "https://images-na.ssl-images-amazon.com/images/I/51Y6cSsft-L._SX362_BO1,204,203,200_.jpg",
+    condition: "come nuovo",
+    price: 45
+  },
+ {
+    name: "Biologia. Cellula, corpo umano, evoluzione",
+    authorName: "Cristina Cavazzuti",
+    seller:
+    {
+      name: "Fabrizio",
+      surname: "Moro",
+      email: "bah",
+      phone: 445,
+      department: "Biologia",
+      matriculation: 175895,
+    },
+    description: {
+      numberOfPage: 320,
+      ISBN: "978-8808440495",
+      language: "Italiano",
+    },
+    picture: "https://images-na.ssl-images-amazon.com/images/I/51AnxdSk+EL._SX403_BO1,204,203,200_.jpg",
+    condition: "buono",
+    price: 25
+  }
+  
